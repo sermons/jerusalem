@@ -1,15 +1,16 @@
 {
-  "name": "@sermons/reveal-skel",
-  "repository": "sermons/reveal-skel",
-  "description": "A template for Reveal.js-based presentations",
+  "name": "@sermons/jerusalem",
+  "repository": "sermons/jerusalem",
+  "description": "Ps122 Peace for Jerusalem",
   "keywords": [
-    "slides"
+    "slides",
+    "psalms"
   ],
   "version": "2.5.17",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
     "pretty_url": "",
-    "cname": "reveal-skel.seanho.com",
+    "cname": "jerusalem.seanho.com",
     "multiplex": {
       "url": "https://mp.seanho.com/",
       "id": "22bc761ffc97809b"
@@ -20,14 +21,14 @@
     },
     "history": [
       {
-        "venue": "Venue of talk",
-        "city": "Location",
-        "date": "2000-01-01",
+        "venue": "Lord's Love Church",
+        "city": "Vancouver",
+        "date": "2025-06-15",
         "duration": 0
       }
     ],
     "slides": [
-      "sample.md"
+      "slides.md"
     ],
     "reveal": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/5.2.1",
     "css": [
