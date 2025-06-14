@@ -2,6 +2,12 @@
  * Local styles specific to my presentations
  *********************************************/
 
+/* fit entire text on one slide */
+.reveal section .fulltext {
+  font-size: 18px;
+  text-indent: 1em hanging;
+}
+
 /* Darken background images */
 .reveal .slide-background-content {
   opacity: 60%;

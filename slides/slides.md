@@ -9,7 +9,9 @@
 
 ---
 
-<div class="r-fit-text" style="text-indent: 1em hanging">
+<div class="imgbox fulltext">
+<div>
+
 I was glad when they said to me,<br>
     “Let us go to the house of the Lord!”
 
@@ -28,6 +30,9 @@ as was decreed for Israel, <br/>
 There thrones for judgment were set, <br/>
     the thrones of the house of David.
 
+</div>
+<div>
+
 Pray for the peace of Jerusalem! <br/>
     “May they be secure who love you!
 
@@ -39,4 +44,5 @@ For my brothers and companions' sake <br/>
 
 For the sake of the house of the Lord our God, <br/>
     I will seek your good.
+</div>
 </div>
