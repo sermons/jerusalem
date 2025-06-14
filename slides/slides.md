@@ -51,3 +51,6 @@ For the sake of <br/>
 
 </div>
 </div>
+
+---
+Heb 9:24 copy of the true tabernacle 
