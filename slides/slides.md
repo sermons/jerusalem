@@ -24,8 +24,7 @@ Jerusalem — built as a city <br/>
 to which the **tribes** go up, <br/>
     the tribes of the Lord,
 
-as was **decreed** for Israel, <br/>
-    to give **thanks** <br/>
+as was **decreed** for Israel, to give **thanks** <br/>
     to the name of the Lord.
 
 There **thrones** for **judgment** were set, <br/>
@@ -47,6 +46,8 @@ For the sake of <br/>
     the **house of the Lord** our God, <br/>
     I will **seek** your good.
 
-(Psalm 122, ESV)
+-- Psalm 122 (ESV)
+<!-- .element: style="text-align: right" -->
+
 </div>
 </div>
