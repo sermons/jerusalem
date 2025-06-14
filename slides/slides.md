@@ -12,37 +12,41 @@
 <div class="imgbox fulltext">
 <div>
 
-I was glad when they said to me,<br>
-    “Let us go to the house of the Lord!”
+I was **glad** when they said to me,<br>
+    “Let us go to the **house of the Lord**!”
 
 Our feet have been standing <br/>
-    within your gates, O Jerusalem!
+    within your **gates**, O Jerusalem!
 
-Jerusalem—built as a city <br/>
-    that is bound firmly together,
+Jerusalem — built as a city <br/>
+    that is **bound** firmly together,
 
-to which the tribes go up, <br/>
+to which the **tribes** go up, <br/>
     the tribes of the Lord,
 
-as was decreed for Israel, <br/>
-    to give thanks to the name of the Lord.
+as was **decreed** for Israel, <br/>
+    to give **thanks** <br/>
+    to the name of the Lord.
 
-There thrones for judgment were set, <br/>
-    the thrones of the house of David.
+There **thrones** for **judgment** were set, <br/>
+    the thrones of the **house of David**.
 
 </div>
 <div>
 
-Pray for the peace of Jerusalem! <br/>
-    “May they be secure who love you!
+Pray for the **peace** of Jerusalem! <br/>
+    “May they be **secure** who love you!
 
-Peace be within your walls <br/>
-    and security within your towers!”
+Peace be within your **walls** <br/>
+    and security within your **towers**!”
 
-For my brothers and companions' sake <br/>
-    I will say, “Peace be within you!”
+For my **brothers** and companions' sake <br/>
+    I will **say**, “Peace be within you!”
 
-For the sake of the house of the Lord our God, <br/>
-    I will seek your good.
+For the sake of <br/>
+    the **house of the Lord** our God, <br/>
+    I will **seek** your good.
+
+(Psalm 122, ESV)
 </div>
 </div>

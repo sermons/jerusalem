@@ -3,10 +3,13 @@
  *********************************************/
 
 /* fit entire text on one slide */
-.reveal section .fulltext {
-  font-size: 18px;
+.fulltext {
+  font-size: 28px;
+  text-align: left;
   text-indent: 1em hanging;
 }
+.fulltext p {
+  margin: 10px 0;
 
 /* Darken background images */
 .reveal .slide-background-content {
