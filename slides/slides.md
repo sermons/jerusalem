@@ -53,4 +53,7 @@ For the sake of <br/>
 </div>
 
 ---
+Josh 4:6 what do these stones mean 
+
+---
 Heb 9:24 copy of the true tabernacle 
