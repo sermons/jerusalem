@@ -969,6 +969,29 @@ and to walk **humbly** with your God?
   + **draw near** to seek His face
 
 ---
+<!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
+I saw the holy city, **new Jerusalem**, <br/>
+coming down out of heaven from God, <br/>
+prepared as a **bride** adorned for her husband. 
+
+Behold, the **dwelling place** of God is <br/>
+with man. He will dwell with them, <br/>
+and they will be **his people**, <br/>
+and God himself will be with them as **their God**.
+
+[Revelation 21:2,3 (ESV)](# "ref")
+[Ju On](https://unsplash.com/photos/e6XsI7qqvAA "caption")
+
+>>>
++ Christ **himself** is preparing
+  + his **bride**
++ Redemption of:
+  + chosen **nation** (true Isr)
+  + holy **city** (new Jeru)
+  + true **temple** (dwell)
++ **Keep** in step w/God's work
+
+---
 <!-- .slide: data-background="white" -->
 # What do I seek **for** the church?
 
