@@ -51,3 +51,17 @@ For the sake of <br/>
 
 </div>
 </div>
+
+---
+Stand in the gate of the Lord's house, and proclaim there this word, and say, Hear the word of the Lord, all you men of Judah who enter these gates to worship the Lord. 3 Thus says the Lord of hosts, the God of Israel: Amend your ways and your deeds, and I will let you dwell in this place. 4 Do not trust in these deceptive words: ‘This is the temple of the Lord, the temple of the Lord, the temple of the Lord.’
+
+Jeremiah 7:2-4 (ESV)
+
+---
+The hour is coming when neither on this **mountain** <br/>
+nor in **Jerusalem** will you worship the Father
+
+the true worshipers will worship the Father <br/>
+in **spirit and truth**
+
+John 4:21,23 (ESV)
