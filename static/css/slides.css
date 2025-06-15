@@ -4,12 +4,15 @@
 
 /* fit entire text on one slide */
 .reveal section .fulltext {
-  font-size: 28px;
+  font-size: 0.59rem;
   text-align: left;
   text-indent: 1em hanging;
 }
 .reveal section .fulltext p {
   margin: 10px 0;
+}
+.reveal section .fade {
+  color: #999;
 }
 
 /* Darken background images */
