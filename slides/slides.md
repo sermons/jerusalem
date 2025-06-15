@@ -72,7 +72,7 @@
   + But **will be** (Christ's return)
 
 ---
-<!-- .slide: <%= bg("unsplash-o--lefJNe0w-cross.jpg") %> -->
+<!-- .slide: <%= bg("pxhere-1094065-cross-silh.jpg") %> -->
 <div class="imgbox fulltext">
 <div>
 <h4>Purpose</h4>
