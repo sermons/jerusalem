@@ -59,16 +59,16 @@
 + What **is** vs what **should be**
 + David in Israel's **golden era**
   + Security, prosperity, worship
-+ Describes **worship** in house of LORD
++ Desc. **worship** in house of LORD
   + city of Jeru., nation of Isr.
-+ **Not** supporting Netanyahu
++ **Not** supporting Netanyahu!
   + Even in OT+NT, **Israel**
   + was often **far** astray
   + from God's commands
 + True **Is**, Jeru., house of LORD:
   + gather to **worship** God
 + How things **were** (orig design)
-  + not how they **are** (flawed church)
+  + not how **are** (flawed church)
   + But **will be** (Christ's return)
 
 ---
@@ -207,7 +207,7 @@ if you **honor** it, not going your **own ways**, <br/>
   + dread seeing certain **ppl**
   + **Hypocrisy** at church
 + Just **generate** joy, force a smile?
-  + **Mixed** feelings
+  + **Mixed** feelings toward church
 
 ---
 <!-- .slide: <%= bg("pxhere-1094065-cross-silh.jpg") %> -->
@@ -260,7 +260,7 @@ For the sake of <br/>
 >>>
 + Think back to feelings at **home**
   + getting **ready** for church
-+ Now **arriving** at the gates:
++ Now (v2) **arriving** at the gates:
 + Meeting place, plaza
   + Where **everyone** is:
 + e.g., Pr1 personifies **Wisdom**:
@@ -282,6 +282,7 @@ at the entrance of the **city gates** she speaks
 + Diff **cultures**, groups
   + All **bro+sis** in Christ
   + All here to **worship** God
++ v3 1st rep: **Jeru**, Jeru:
 
 ---
 <!-- .slide: <%= bg("pxhere-1094065-cross-silh.jpg") %> -->
@@ -341,8 +342,9 @@ For the sake of <br/>
   + often **rivals**
   + but knew were **bros**
 + **sceptre**: under God's **rule**
+  + that's what's in **common**
 + Not just nation of **Israel**
-  + FF to Ac2: Jeru brought ppl from
+  + Ac2: Jeru brought ppl from
 
 ---
 <!-- .slide: <%= bg("Restout-Pentecost.jpg") %> -->
@@ -361,7 +363,8 @@ the mighty **works of God**.
 + from every **nation**
   + to worship God
   + to hear of His mighty **works**
-+ Jesus in the **temple** quoted Isaiah:
++ Jesus cleansing the **temple** 
+  + quoted Isaiah:
 
 ---
 <!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> -->
@@ -374,9 +377,12 @@ My house shall be called a house of **prayer** <br/>
 >>>
 + From all **walks** of life
 + **Bound** together 
+  + under the **sceptre** of God
+  + to proclaim His **works**
 + The **act** of coming together
   + is a **discipline**
   + and a **testimony**:
++ This is why **Heb** encourages:
 
 ---
 <!-- .slide: <%= bg("unsplash-UOwvwZ9Dy6w-hold_hands.jpg") %> -->
@@ -395,12 +401,16 @@ the more as you see the **Day** drawing near.
 >>>
 + In light of Christ's imminent **return**
 + Final **judg**, examine every **heart**
-+ **Harder** to stand firm in faith
++ **End** times: 
+  + **Harder** to stand firm in faith
 + Even more **spur** e.o. on
   + **meet**, and **encourage**
 + Can't we worship God at **home**?
-  + In theory, yes
+  + In **theory**, yes
++ Better than **nothing**
+  + if **unable** to come out
 + In practise: hard to **encour** remotely
++ v4:
 
 ---
 <!-- .slide: <%= bg("pxhere-1094065-cross-silh.jpg") %> -->
@@ -451,14 +461,15 @@ For the sake of <br/>
 </div>
 
 >>>
-+ Taking time to meet together is
-  + not just a **decree**
-  + but a **testimony**
-+ **Sacraments**, rituals with meaning
++ "decree" / ordinance: **testimony**
++ Taking time to meet together is a
++ **Sacrament**: ritual with meaning
   + not legalistic **religion**
-+ but a **discipline** that 
-  + draws **attention**
-  + to God's **works**
++ but a **discipline** 
+  + that draws **attention**
++ to God's **works**,
+  + not **my** piety
++ E.g., sacrament of **Passover**:
 
 ---
 <!-- .slide: <%= bg("unsplash-_HzRfyw7BuA-communion.jpg") %> -->
@@ -478,11 +489,10 @@ of the people of Israel in Egypt'
 
 >>>
 + Holy Communion / Last Supper
-  + Proclaim Lord's death until comes
-+ Give **thanks** for God's
-  + **mercy** + salvation
+  + Proclaim Lord's death 
+  + until He returns
 + Again, when God led Joshua + Isr
-  + through **Jordan** riv:
+  + through **Jordan** river:
 
 ---
 <!-- .slide: <%= bg("unsplash-6KkYYqTEDwQ-rocks.jpg") %> -->
@@ -500,9 +510,12 @@ the **Jordan** were cut off before the ark.
 [Colton Sturgeon](https://unsplash.com/photos/6KkYYqTEDwQ "caption")
 
 >>>
++ Common theme: **children** ask
+  + "What does this **mean**?"
++ Opp. to **tell** of God's works
 + Not all **rituals** are bad!
-+ **Signs** + memorials that
-  + **testify** to God's works
++ **Signs** + memorials **testify**
+  + God's **mercy** + salvation
 
 ---
 <!-- .slide: <%= bg("pxhere-1094065-cross-silh.jpg") %> -->
@@ -556,16 +569,18 @@ For the sake of <br/>
 >>>
 + **Rejoice** invite to Jeru.
 + At the gates, see **tribes**
-  + bound together to seek God
+  + **bound together** to seek God
 + Rituals with **meaning**
   + decree + **testimony**
   + thanks for God's providence
 + Where is the **destination**?
-+ **Central** verse:
++ 3rd rep + **central** vs (v5):
   + **Thrones** for judgment
+  + **Justice**, right + wrong
 + David talking about **self**?
   + No: auth lies w/**Jesus**
-+ Proclaiming Christ's **birth**:
++ In **Lk1**, angel Gabriel
+  + proclaimed Christ's **birth**:
 
 ---
 <!-- .slide: <%= bg("Murillo-Annunciation.jpg") %> -->
@@ -585,7 +600,8 @@ the **throne** of his **father David**.
   + and son of **David**
 + **Throne** of house of David
   + Jesus the **Messiah**
-+ Blind beggar **Bar-Timaeus** addresses him:
++ In **Lk18**, blind beggar 
+  + **Bar-Timaeus** addresses him:
 
 ---
 <!-- .slide: <%= bg("Paola-Beggar_with_Lyra.jpg") %> -->
@@ -599,11 +615,11 @@ And he cried out, <br/>
 [Nikolay Svishchev-Paola, "Beggar with a Lyra", 1900](https://commons.wikimedia.org/wiki/File:Beggar_with_a_Lyra,_by_Svishchev-Paola_1900s.jpg "caption")
 
 >>>
-+ Pharisees did not call him "Son of David"
-+ Bar-timaeus **recognised** Jesus
++ Phar. never called "Son of David"
++ Bar-timaeus **recog** Jesus
   + as Messiah, Son of **God**
-+ **Sought** Jesus not only for **healing**
-  + but for **justice**
++ **Sought** not only **healing**
+  + but **justice**
 
 ---
 <!-- .slide: <%= bg("pxhere-1094065-cross-silh.jpg") %> -->
@@ -662,7 +678,8 @@ For the sake of <br/>
 + **Cheaters** win + never get deserve
 + Our hearts suffer **moral injury**
   + yearn to see **justice** done
-+ Remember **whom** we seek at church:
++ Remember **why** we come to church:
+  + **Who** is the God we seek?
 
 ---
 <!-- .slide: <%= bg("unsplash-bUhzlj3gGso-mtns_clouds.jpg") %> -->
@@ -760,9 +777,9 @@ For the sake of <br/>
 
 
 >>>
-+ 2nd half: **respond** in prayer
-+ Earnest **desire**
-  + plus faithful **obedience**
++ 2nd half: respond in **prayer**:
++ Earnest **desire** plus
+  + faithful **obedience**
 + **Peace**: shalom, complete, sound
   + restored how it **should** be
 + **Security**: feel at **ease**
@@ -825,12 +842,14 @@ For the sake of <br/>
 </div>
 
 >>>
-+ 6+7 **couplet**:
++ 6+7 **couplet**
 + **walls** + **towers** (citadels):
-+ **stronghold**, defense
-+ **Security** of the city (and church)
-  + from God's **justice**
-  + and our **obedience** to it:
+  + **stronghold**, defense
+  + protect from external threats
++ **Security** of church comes from
+  + God's **judgments**
+  + and our **obedience** to them:
++ Same pair wall + tower in **Ps48**:
 
 ---
 <!-- .slide: <%= bg("unsplash-cgPxN5Y27pA-cathedral.jpg") %> -->
@@ -849,8 +868,8 @@ He will **guide** us forever.
 
 >>>
 + Guide: must **yield** to His judgment
-  + What God deems **bad**, we also reject
-  + Who God **accepts**, we also accept
++ What God deems **bad**, we reject
+  + Who God **accepts**, we accept
 + Church needs to be **safe** place
   + Follow God's std of **justice**
 + Where there is **sin**
@@ -908,14 +927,15 @@ For the sake of <br/>
 </div>
 
 >>>
-+ All **bro+sis** in Christ
++ Last couplet, v8-9
++ We're all **bro+sis** in Christ
 + But often bring **dysfunction**
-  + from natural families
-  + into family of God
+  + from **natural** families
+  + into family of **God**
 + "kids, be **quiet** --"
   + "making **me** look bad"
 + save face, project **image** holiness
-+ when I am **wrong**: angry, proud
++ When I am **wrong**: angry, proud
   + deny, attack, reverse victim/off
 + And we do the **same** in church
   + to "keep good **testimony**"
@@ -924,6 +944,7 @@ For the sake of <br/>
 + For sake of my **bro** + companions
   + For sake of **house** of our God
 + Seek what is **good**:
+  + God **told** us what's good:
 
 ---
 <!-- .slide: <%= bg("unsplash-YK4N8hd4OL8-paper_heart.jpg") %> -->
@@ -938,7 +959,11 @@ and to walk **humbly** with your God?
 
 >>>
 + Strive to act **justly** as God does
+  + His **std** of right + wrong
 + Enjoy showing **mercy** to others
+  + Not bc **have to**
+  + but bc **want to**
+  + be like **Christ**
 + With a **humble** heart,
   + keep in **step** with the Spirit
   + **draw near** to seek His face
@@ -955,8 +980,8 @@ and to walk **humbly** with your God?
 + Not just **wishful** dreaming, but
   + Follow up w/faithful **obedience**
 + What should I be **doing** to bring
-  + **peace** + **security**
-  + for all who love to worship God?
+  + God's **peace** + **security**
++ to all who love to worship God?
 
 ---
 <!-- .slide: <%= bg("pxhere-1094065-cross-silh.jpg") %> -->
