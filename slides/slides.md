@@ -9,38 +9,38 @@
 
 ---
 ## Psalms of Ascents
-<div class="imgbox fulltext" style="font-size: 0.8rem">
+<div class="imgbox fulltext" style="font-size: 0.75rem">
 <div>
 120: Deliver Me, Oh LORD
 
-121: My Help Comes From the LORD
+121: My Help Comes <br/> From the LORD
 
-122<sup>&ast;</sup>: Peace of Jerusalem
+**122: Peace of Jerusalem**
 
 123: Have Mercy Upon Us
 
-124<sup>&ast;</sup>: The LORD On Our Side
+*124: The LORD On Our Side*
 
-125: The LORD Surrounds His People
+125: The LORD Surrounds <br/> His People
 
 126: Restore Our Fortunes
 
-127<sup>&ast;&ast;</sup>: Unless the LORD Builds
+*127: Unless the LORD Builds*
 
 </div>
 <div>
 
 128: He Who Fears the LORD
 
-129: Afflicted, but not Prevailed Against
+129: Afflicted, but not <br/> Prevailed Against
 
 130: My Soul Waits for the LORD
 
-131<sup>&ast;</sup>: Quieted My Soul
+*131: Quieted My Soul*
 
-132: The Face of Your Anointed One
+132: The Face of <br/> Your Anointed One
 
-133<sup>&ast;</sup>: When Brothers Dwell in Unity
+*133: When Brothers <br/> Dwell in Unity*
 
 134: Come Bless the LORD
 </div>
@@ -72,7 +72,7 @@
 
 <div class="imgbox fulltext">
 <div>
-#### Propulsion
+<h4>Propulsion</h4>
 
 I was **glad** when they said to me,<br>
     “Let us go to the **house of the Lord**!”
@@ -94,7 +94,7 @@ There **thrones** for **judgment** were set, <br/>
 
 </div>
 <div>
-#### Prayer
+<h4>Prayer</h4>
 
 Pray for the **peace** of Jerusalem! <br/>
     “May they be **secure** who love you!
@@ -203,10 +203,13 @@ at the entrance of the **city gates** she speaks
   + FF to Ac2: Jeru brought ppl from
 
 ---
-... **Phrygia** and Pamphylia, **Egypt** and the parts of <br/>
-Libya belonging to Cyrene, and visitors from **Rome**, <br/>
-both Jews and proselytes, Cretans and **Arabians** — <br/>
-we hear them telling in our own tongues the mighty **works of God**.
+... **Phrygia** and Pamphylia, <br/>
+**Egypt** and the parts of Libya <br/>
+belonging to Cyrene, and visitors from **Rome**, <br/>
+both Jews and proselytes, <br/>
+Cretans and **Arabians** — <br/>
+we hear them telling in our own tongues <br/>
+the mighty **works of God**.
 
 [Acts 2:10-11 (ESV)](# "ref")
 
@@ -269,10 +272,12 @@ You shall observe this **rite** as a statute <br/>
 for you and for your sons forever. 
 
 ... And when your **children** say to you, <br/>
-‘What do you **mean** by this service?’ you shall say, 
+‘What do you **mean** by this service?’ <br/>
 
-‘It is the sacrifice of the Lord's **Passover**, for he <br/>
-passed over the houses of the people of Israel in Egypt
+you shall say, <br/>
+‘It is the sacrifice of the Lord's **Passover**, <br/>
+for he passed over the houses <br/>
+of the people of Israel in Egypt
 
 [Exodus 12:24,26-27 (ESV)](# "ref")
 
@@ -368,9 +373,10 @@ And he cried out, <br/>
 + Remember **whom** we seek at church:
 
 ---
-The Lord, the Lord, a God **merciful** and **gracious**, <br/>
-slow to anger, and abounding in steadfast love <br/>
-and faithfulness, keeping steadfast love for thousands, <br/>
+The Lord, the Lord, a God **merciful** <br/>
+and **gracious**, slow to anger, and <br/>
+abounding in steadfast love and faithfulness, <br/>
+keeping steadfast love for thousands, <br/>
 **forgiving** iniquity and transgression and sin, <br/>
 but who will by **no means** clear the **guilty**
 
@@ -514,3 +520,7 @@ and to walk **humbly** with your God?
 + What should I be **doing** to bring
   + **peace** + **security**
   + for all who love to worship God?
+
+---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
+
