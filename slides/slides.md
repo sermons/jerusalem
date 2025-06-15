@@ -944,6 +944,8 @@ For the sake of <br/>
 + For sake of my **bro** + companions
   + For sake of **house** of our God
 + Seek what is **good**:
+  + Not just **attendance**, budget 
++ But that **we** (church) do good
   + God **told** us what's good:
 
 ---
