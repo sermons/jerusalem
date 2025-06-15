@@ -1,9 +1,9 @@
-<!-- .slide: <%= bg("unsplash-o--lefJNe0w-cross.jpg") %> id="title" -->
+<!-- .slide: <%= bg("pxhere-1094065-cross-silh.jpg") %> id="title" -->
 
 # Peace for Jerusalem
 ## Psalm 122
 
-[Aaron Burden](https://unsplash.com/photos/o--lefJNe0w "caption")
+[pxhere](https://pxhere.com/en/photo/1094065 "caption")
 
 >>>
 
@@ -134,7 +134,7 @@ For the sake of <br/>
   + To give **thx** + seek **justice**
 
 ---
-<!-- .slide: <%= bg("unsplash-o--lefJNe0w-cross.jpg") %> -->
+<!-- .slide: <%= bg("pxhere-1094065-cross-silh.jpg") %> -->
 <div class="imgbox fulltext fade">
 <div>
 <h4>Purpose</h4>
@@ -214,7 +214,7 @@ if you **honor** it, not going your **own ways**, <br/>
   + **Mixed** feelings
 
 ---
-<!-- .slide: <%= bg("unsplash-o--lefJNe0w-cross.jpg") %> -->
+<!-- .slide: <%= bg("pxhere-1094065-cross-silh.jpg") %> -->
 <div class="imgbox fulltext fade">
 <div>
 <h4>Purpose</h4>
@@ -290,7 +290,7 @@ at the entrance of the **city gates** she speaks
   + All here to **worship** God
 
 ---
-<!-- .slide: <%= bg("unsplash-o--lefJNe0w-cross.jpg") %> -->
+<!-- .slide: <%= bg("pxhere-1094065-cross-silh.jpg") %> -->
 <div class="imgbox fulltext fade">
 <div>
 <h4>Purpose</h4>
@@ -411,7 +411,7 @@ the more as you see the **Day** drawing near.
 + In practise: hard to **encour** remotely
 
 ---
-<!-- .slide: <%= bg("unsplash-o--lefJNe0w-cross.jpg") %> -->
+<!-- .slide: <%= bg("pxhere-1094065-cross-silh.jpg") %> -->
 <div class="imgbox fulltext fade">
 <div>
 <h4>Purpose</h4>
@@ -515,7 +515,7 @@ the **Jordan** were cut off before the ark.
   + **testify** to God's works
 
 ---
-<!-- .slide: <%= bg("unsplash-o--lefJNe0w-cross.jpg") %> -->
+<!-- .slide: <%= bg("pxhere-1094065-cross-silh.jpg") %> -->
 <div class="imgbox fulltext fade">
 <div>
 <h4>Purpose</h4>
@@ -618,7 +618,7 @@ And he cried out, <br/>
   + but for **justice**
 
 ---
-<!-- .slide: <%= bg("unsplash-o--lefJNe0w-cross.jpg") %> -->
+<!-- .slide: <%= bg("pxhere-1094065-cross-silh.jpg") %> -->
 <div class="imgbox fulltext fade">
 <div>
 <h4>Purpose</h4>
@@ -725,7 +725,7 @@ but who will by **no means** clear the **guilty**
 
 ---
 
-<!-- .slide: <%= bg("unsplash-o--lefJNe0w-cross.jpg") %> -->
+<!-- .slide: <%= bg("pxhere-1094065-cross-silh.jpg") %> -->
 <div class="imgbox fulltext fade">
 <div>
 <h4>Purpose</h4>
@@ -793,7 +793,7 @@ For the sake of <br/>
   + spreads through daily lives
 
 ---
-<!-- .slide: <%= bg("unsplash-o--lefJNe0w-cross.jpg") %> -->
+<!-- .slide: <%= bg("pxhere-1094065-cross-silh.jpg") %> -->
 <div class="imgbox fulltext fade">
 <div>
 <h4>Purpose</h4>
@@ -878,7 +878,7 @@ He will **guide** us forever.
 
 ---
 
-<!-- .slide: <%= bg("unsplash-o--lefJNe0w-cross.jpg") %> -->
+<!-- .slide: <%= bg("pxhere-1094065-cross-silh.jpg") %> -->
 <div class="imgbox fulltext fade">
 <div>
 <h4>Purpose</h4>
@@ -979,7 +979,7 @@ and to walk **humbly** with your God?
   + for all who love to worship God?
 
 ---
-<!-- .slide: <%= bg("unsplash-o--lefJNe0w-cross.jpg") %> -->
+<!-- .slide: <%= bg("pxhere-1094065-cross-silh.jpg") %> -->
 <div class="imgbox fulltext">
 <div>
 <h4>Purpose</h4>
@@ -1027,4 +1027,4 @@ For the sake of <br/>
 </div>
 
 ---
-<!-- .slide: <%= bg("unsplash-o--lefJNe0w-cross.jpg") %> class="empty" -->
+<!-- .slide: <%= bg("pxhere-1094065-cross-silh.jpg") %> class="empty" -->
