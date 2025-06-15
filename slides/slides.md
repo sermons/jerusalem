@@ -112,9 +112,7 @@ For the sake of <br/>
     the **house of the Lord** our God, <br/>
     I will **seek** your good.
 
-[Psalm 122 (ESV)](# "ref")
-
-<!-- .element: style="text-align: right" -->
+<div class="ref">Psalm 122 (ESV)</div>
 
 </div>
 </div>
@@ -176,9 +174,7 @@ For the sake of <br/>
     the house of the Lord our God, <br/>
     I will seek your good.
 
-[Psalm 122 (ESV)](# "ref")
-
-<!-- .element: style="text-align: right" -->
+<div class="ref">Psalm 122 (ESV)</div>
 
 </div>
 </div>
@@ -256,9 +252,7 @@ For the sake of <br/>
     the house of the Lord our God, <br/>
     I will seek your good.
 
-[Psalm 122 (ESV)](# "ref")
-
-<!-- .element: style="text-align: right" -->
+<div class="ref">Psalm 122 (ESV)</div>
 
 </div>
 </div>
@@ -332,9 +326,7 @@ For the sake of <br/>
     the house of the Lord our God, <br/>
     I will seek your good.
 
-[Psalm 122 (ESV)](# "ref")
-
-<!-- .element: style="text-align: right" -->
+<div class="ref">Psalm 122 (ESV)</div>
 
 </div>
 </div>
@@ -453,9 +445,7 @@ For the sake of <br/>
     the house of the Lord our God, <br/>
     I will seek your good.
 
-[Psalm 122 (ESV)](# "ref")
-
-<!-- .element: style="text-align: right" -->
+<div class="ref">Psalm 122 (ESV)</div>
 
 </div>
 </div>
@@ -557,9 +547,7 @@ For the sake of <br/>
     the house of the Lord our God, <br/>
     I will seek your good.
 
-[Psalm 122 (ESV)](# "ref")
-
-<!-- .element: style="text-align: right" -->
+<div class="ref">Psalm 122 (ESV)</div>
 
 </div>
 </div>
@@ -660,9 +648,7 @@ For the sake of <br/>
     the house of the Lord our God, <br/>
     I will seek your good.
 
-[Psalm 122 (ESV)](# "ref")
-
-<!-- .element: style="text-align: right" -->
+<div class="ref">Psalm 122 (ESV)</div>
 
 </div>
 </div>
@@ -767,9 +753,7 @@ For the sake of <br/>
     the house of the Lord our God, <br/>
     I will seek your good.
 
-[Psalm 122 (ESV)](# "ref")
-
-<!-- .element: style="text-align: right" -->
+<div class="ref">Psalm 122 (ESV)</div>
 
 </div>
 </div>
@@ -835,9 +819,7 @@ For the sake of <br/>
     the house of the Lord our God, <br/>
     I will seek your good.
 
-[Psalm 122 (ESV)](# "ref")
-
-<!-- .element: style="text-align: right" -->
+<div class="ref">Psalm 122 (ESV)</div>
 
 </div>
 </div>
@@ -920,9 +902,7 @@ For the sake of <br/>
     I will seek your <b>good</b>.
 </div>
 
-[Psalm 122 (ESV)](# "ref")
-
-<!-- .element: style="text-align: right" -->
+<div class="ref">Psalm 122 (ESV)</div>
 
 </div>
 </div>
@@ -1019,9 +999,7 @@ For the sake of <br/>
     the **house of the Lord** our God, <br/>
     I will **seek** your good.
 
-[Psalm 122 (ESV)](# "ref")
-
-<!-- .element: style="text-align: right" -->
+<div class="ref">Psalm 122 (ESV)</div>
 
 </div>
 </div>

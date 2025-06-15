@@ -12,13 +12,19 @@
   margin: 10px 0;
 }
 .reveal section .fade {
-  color: #888;
+  color: #fff4;
+  text-shadow: none;
 }
 .reveal section .fade .hl {
   color: white;
+  text-shadow: 0 0 0.2rem black, 0 0 0.2rem black;
 }
 .reveal section .hl b {
   color: yellow;
+}
+.reveal section .fulltext .ref {
+  text-align: right;
+  color: white;
 }
 
 /* Darken background images */
