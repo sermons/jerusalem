@@ -11,11 +11,11 @@
 .reveal section .fulltext p {
   margin: 10px 0;
 }
-.reveal section .fulltext a[title="ref"] {
-  text-align: right;
-}
 .reveal section .fade {
   color: #999;
+}
+.reveal section .fade .hl {
+  color: white;
 }
 
 /* Darken background images */

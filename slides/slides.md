@@ -72,7 +72,7 @@
 
 <div class="imgbox fulltext">
 <div>
-<h4>Propulsion</h4>
+<h4>Purpose</h4>
 
 I was **glad** when they said to me,<br>
     “Let us go to the **house of the Lord**!”
@@ -111,6 +111,8 @@ For the sake of <br/>
 
 [Psalm 122 (ESV)](# "ref")
 
+<!-- .element: style="text-align: right" -->
+
 </div>
 </div>
 
@@ -129,7 +131,54 @@ For the sake of <br/>
   + To give **thx** + seek **justice**
 
 ---
-(v1)
+<div class="imgbox fulltext fade">
+<div>
+<h4>Purpose</h4>
+
+<div class="hl">
+I was **glad** when they said to me,<br>
+    “Let us go to the **house of the Lord**!”
+</div>
+
+Our feet have been standing <br/>
+    within your gates, O Jerusalem!
+
+Jerusalem — built as a city <br/>
+    that is bound firmly together,
+
+to which the tribes go up, <br/>
+    the tribes of the Lord,
+
+as was decreed for Israel, to give thanks <br/>
+    to the name of the Lord.
+
+There thrones for judgment were set, <br/>
+    the thrones of the house of David.
+
+</div>
+<div>
+<h4>Prayer</h4>
+
+Pray for the peace of Jerusalem! <br/>
+    “May they be secure who love you!
+
+Peace be within your walls <br/>
+    and security within your towers!”
+
+For my brothers and companions' sake <br/>
+    I will say, “Peace be within you!”
+
+For the sake of <br/>
+    the house of the Lord our God, <br/>
+    I will seek your good.
+
+[Psalm 122 (ESV)](# "ref")
+
+<!-- .element: style="text-align: right" -->
+
+</div>
+</div>
+
 
 >>>
 + Init at **everyday** life:
@@ -240,7 +289,7 @@ not neglecting to **meet together**, <br/>
 as is the habit of some, 
 
 but **encouraging** one another, and all <br/>
-the more as you see the **Day** drawing near
+the more as you see the **Day** drawing near.
 
 [Hebrews 10:24-25 (ESV)](# "ref")
 
@@ -277,7 +326,7 @@ for you and for your sons forever.
 you shall say, <br/>
 ‘It is the sacrifice of the Lord's **Passover**, <br/>
 for he passed over the houses <br/>
-of the people of Israel in Egypt
+of the people of Israel in Egypt'
 
 [Exodus 12:24,26-27 (ESV)](# "ref")
 
@@ -296,7 +345,7 @@ each of you a **stone** upon his shoulder, <br/>
 When your **children** ask in time to come, <br/>
 ‘What do those stones **mean** to you?’ <br/>
 then you shall tell them that the waters of <br/>
-the **Jordan** were cut off before the ark
+the **Jordan** were cut off before the ark.
 
 [Joshua 4:5-6 (ESV)](# "ref")
 
@@ -375,7 +424,7 @@ And he cried out, <br/>
 ---
 The Lord, the Lord, a God **merciful** <br/>
 and **gracious**, slow to anger, and <br/>
-abounding in steadfast love and faithfulness, <br/>
+abounding in **steadfast love** and faithfulness, <br/>
 keeping steadfast love for thousands, <br/>
 **forgiving** iniquity and transgression and sin, <br/>
 but who will by **no means** clear the **guilty**
