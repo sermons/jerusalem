@@ -1,13 +1,14 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-o--lefJNe0w-cross.jpg") %> id="title" -->
 
 # Peace for Jerusalem
 ## Psalm 122
 
-[Ryan Hutton](https://unsplash.com/photos/Jztmx9yqjBw "caption")
+[Aaron Burden](https://unsplash.com/photos/o--lefJNe0w "caption")
 
 >>>
 
 ---
+<!-- .slide: <%= bg("unsplash-Ht5XmeuLyDg-camel_mtns_silh.jpg") %> -->
 ## Psalms of Ascents
 <div class="imgbox fulltext" style="font-size: 0.75rem">
 <div>
@@ -46,6 +47,8 @@
 </div>
 </div>
 
+[Egypt. Mariam Soliman](https://unsplash.com/photos/Ht5XmeuLyDg "caption")
+
 >>>
 + 15 psalms, mostly short
 + Sung on the **way** to Jerusalem
@@ -69,7 +72,7 @@
   + But **will be** (Christ's return)
 
 ---
-
+<!-- .slide: <%= bg("unsplash-o--lefJNe0w-cross.jpg") %> -->
 <div class="imgbox fulltext">
 <div>
 <h4>Purpose</h4>
@@ -131,6 +134,7 @@ For the sake of <br/>
   + To give **thx** + seek **justice**
 
 ---
+<!-- .slide: <%= bg("unsplash-o--lefJNe0w-cross.jpg") %> -->
 <div class="imgbox fulltext fade">
 <div>
 <h4>Purpose</h4>
@@ -179,7 +183,6 @@ For the sake of <br/>
 </div>
 </div>
 
-
 >>>
 + Init at **everyday** life:
   + home, work, school
@@ -189,6 +192,7 @@ For the sake of <br/>
 + Sabbath should be **special**:
 
 ---
+<!-- .slide: <%= bg("unsplash-K2SXdKPEhcg-feather.jpg") %> -->
 Call the Sabbath a **delight** <br/>
     and the holy day of the Lord **honorable**;
 
@@ -196,6 +200,7 @@ if you **honor** it, not going your **own ways**, <br/>
     or seeking your own pleasure, or talking idly
 
 [Isaiah 58:13 (ESV)](# "ref")
+[Jenelle Hayes](https://unsplash.com/photos/K2SXdKPEhcg "caption")
 
 >>>
 + delight: **lightweight**, fun
@@ -209,6 +214,7 @@ if you **honor** it, not going your **own ways**, <br/>
   + **Mixed** feelings
 
 ---
+<!-- .slide: <%= bg("unsplash-o--lefJNe0w-cross.jpg") %> -->
 <div class="imgbox fulltext fade">
 <div>
 <h4>Purpose</h4>
@@ -266,10 +272,12 @@ For the sake of <br/>
 + e.g., Pr1 personifies **Wisdom**:
 
 ---
+<!-- .slide: <%= bg("unesco-Jerusalem_Damascus_Gate_108391.jpg") %>  -->
 Wisdom cries aloud in the **street**,<br/>
 at the entrance of the **city gates** she speaks
 
 [Proverbs 1:20,21 (ESV)](# "ref")
+[Old City of Jerusalem, Damascus Gate. <br> Leila Maziz. &copy; UNESCO, CC-BY-SA 3.0 IGO](http://whc.unesco.org/en/documents/108391 "caption")
 
 >>>
 + Also **Absalom** in 2Sam15
@@ -282,6 +290,7 @@ at the entrance of the **city gates** she speaks
   + All here to **worship** God
 
 ---
+<!-- .slide: <%= bg("unsplash-o--lefJNe0w-cross.jpg") %> -->
 <div class="imgbox fulltext fade">
 <div>
 <h4>Purpose</h4>
@@ -330,7 +339,6 @@ For the sake of <br/>
 </div>
 </div>
 
-
 >>>
 + **bound** firmly together: compact
 + Jeru. literally is compact
@@ -345,6 +353,7 @@ For the sake of <br/>
   + FF to Ac2: Jeru brought ppl from
 
 ---
+<!-- .slide: <%= bg("Restout-Pentecost.jpg") %> -->
 ... **Phrygia** and Pamphylia, <br/>
 **Egypt** and the parts of Libya <br/>
 belonging to Cyrene, and visitors from **Rome**, <br/>
@@ -354,6 +363,7 @@ we hear them telling in our own tongues <br/>
 the mighty **works of God**.
 
 [Acts 2:10-11 (ESV)](# "ref")
+[Jean Restout, "Pentecôte", 1732](http://www.wga.hu/html/r/restout/jean2/pentecos.html "caption")
 
 >>>
 + from every **nation**
@@ -362,10 +372,12 @@ the mighty **works of God**.
 + Jesus in the **temple** quoted Isaiah:
 
 ---
+<!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> -->
 My house shall be called a house of **prayer** <br/>
     for **all peoples**.
 
 [Isaiah 56:7 (ESV)](# "ref")
+[&copy; 2010 @bigbirdz, CC BY 2.0](https://www.flickr.com/photos/bigbirdz/5024081279 "caption")
 
 >>>
 + From all **walks** of life
@@ -375,6 +387,7 @@ My house shall be called a house of **prayer** <br/>
   + and a **testimony**:
 
 ---
+<!-- .slide: <%= bg("unsplash-UOwvwZ9Dy6w-hold_hands.jpg") %> -->
 And let us consider how to **stir up** <br/>
 one another to **love** and **good works**, 
 
@@ -385,6 +398,7 @@ but **encouraging** one another, and all <br/>
 the more as you see the **Day** drawing near.
 
 [Hebrews 10:24-25 (ESV)](# "ref")
+[Nancy, France. Rémi Walle](https://unsplash.com/photos/UOwvwZ9Dy6w "caption")
 
 >>>
 + In light of Christ's imminent **return**
@@ -397,6 +411,7 @@ the more as you see the **Day** drawing near.
 + In practise: hard to **encour** remotely
 
 ---
+<!-- .slide: <%= bg("unsplash-o--lefJNe0w-cross.jpg") %> -->
 <div class="imgbox fulltext fade">
 <div>
 <h4>Purpose</h4>
@@ -445,7 +460,6 @@ For the sake of <br/>
 </div>
 </div>
 
-
 >>>
 + Taking time to meet together is
   + not just a **decree**
@@ -457,6 +471,7 @@ For the sake of <br/>
   + to God's **works**
 
 ---
+<!-- .slide: <%= bg("unsplash-_HzRfyw7BuA-communion.jpg") %> -->
 You shall observe this **rite** as a statute <br/>
 for you and for your sons forever. 
 
@@ -469,14 +484,18 @@ for he passed over the houses <br/>
 of the people of Israel in Egypt'
 
 [Exodus 12:24,26-27 (ESV)](# "ref")
+[James Coleman](https://unsplash.com/photos/_HzRfyw7BuA "caption")
 
 >>>
++ Holy Communion / Last Supper
+  + Proclaim Lord's death until comes
 + Give **thanks** for God's
   + **mercy** + salvation
 + Again, when God led Joshua + Isr
   + through **Jordan** riv:
 
 ---
+<!-- .slide: <%= bg("unsplash-6KkYYqTEDwQ-rocks.jpg") %> -->
 Pass on before the ark of the Lord your God <br/>
 into the **midst of the Jordan**, and take up <br/>
 each of you a **stone** upon his shoulder, <br/>
@@ -488,15 +507,15 @@ then you shall tell them that the waters of <br/>
 the **Jordan** were cut off before the ark.
 
 [Joshua 4:5-6 (ESV)](# "ref")
+[Colton Sturgeon](https://unsplash.com/photos/6KkYYqTEDwQ "caption")
 
 >>>
-+ Holy Communion / Last Supper
-  + Proclaim Lord's death until comes
 + Not all **rituals** are bad!
 + **Signs** + memorials that
   + **testify** to God's works
 
 ---
+<!-- .slide: <%= bg("unsplash-o--lefJNe0w-cross.jpg") %> -->
 <div class="imgbox fulltext fade">
 <div>
 <h4>Purpose</h4>
@@ -561,6 +580,7 @@ For the sake of <br/>
 + Proclaiming Christ's **birth**:
 
 ---
+<!-- .slide: <%= bg("Murillo-Annunciation.jpg") %> -->
 You shall call his name **Jesus**. 
 
 He will be great and will be called <br/>
@@ -570,6 +590,7 @@ And the Lord God will give to him <br/>
 the **throne** of his **father David**.
 
 [Luke 1:31-32 (ESV)](# "ref")
+[(Murillo, "The Annunciation", 1660)](https://commons.wikimedia.org/wiki/File:Bartolom%C3%A9_Esteban_Perez_Murillo_023.jpg "caption")
 
 >>>
 + Son of Most High **God**
@@ -579,6 +600,7 @@ the **throne** of his **father David**.
 + Blind beggar **Bar-Timaeus** addresses him:
 
 ---
+<!-- .slide: <%= bg("Paola-Beggar_with_Lyra.jpg") %> -->
 As he drew near to Jericho, a **blind man** <br/>
 was sitting by the roadside begging.
 
@@ -586,6 +608,7 @@ And he cried out, <br/>
 “Jesus, **Son of David**, have mercy on me!” 
 
 [Luke 18:35,38 (ESV)](# "ref")
+[Nikolay Svishchev-Paola, "Beggar with a Lyra", 1900](https://commons.wikimedia.org/wiki/File:Beggar_with_a_Lyra,_by_Svishchev-Paola_1900s.jpg "caption")
 
 >>>
 + Pharisees did not call him "Son of David"
@@ -595,6 +618,7 @@ And he cried out, <br/>
   + but for **justice**
 
 ---
+<!-- .slide: <%= bg("unsplash-o--lefJNe0w-cross.jpg") %> -->
 <div class="imgbox fulltext fade">
 <div>
 <h4>Purpose</h4>
@@ -655,6 +679,7 @@ For the sake of <br/>
 + Remember **whom** we seek at church:
 
 ---
+<!-- .slide: <%= bg("unsplash-bUhzlj3gGso-mtns_clouds.jpg") %> -->
 The Lord, the Lord, a God **merciful** <br/>
 and **gracious**, slow to anger, and <br/>
 abounding in **steadfast love** and faithfulness, <br/>
@@ -663,6 +688,7 @@ keeping steadfast love for thousands, <br/>
 but who will by **no means** clear the **guilty**
 
 [Exodus 34:6-7 (ESV)](# "ref")
+[Vietnam. Andreas Kind](https://unsplash.com/photos/bUhzlj3gGso "caption")
 
 >>>
 + Mt. Sinai, 2nd tablets to Moses
@@ -699,6 +725,7 @@ but who will by **no means** clear the **guilty**
 
 ---
 
+<!-- .slide: <%= bg("unsplash-o--lefJNe0w-cross.jpg") %> -->
 <div class="imgbox fulltext fade">
 <div>
 <h4>Purpose</h4>
@@ -766,6 +793,7 @@ For the sake of <br/>
   + spreads through daily lives
 
 ---
+<!-- .slide: <%= bg("unsplash-o--lefJNe0w-cross.jpg") %> -->
 <div class="imgbox fulltext fade">
 <div>
 <h4>Purpose</h4>
@@ -814,7 +842,6 @@ For the sake of <br/>
 </div>
 </div>
 
-
 >>>
 + 6+7 **couplet**:
 + **walls** + **towers** (citadels):
@@ -824,6 +851,7 @@ For the sake of <br/>
   + and our **obedience** to it:
 
 ---
+<!-- .slide: <%= bg("unsplash-cgPxN5Y27pA-cathedral.jpg") %> -->
 Let the daughters of Judah **rejoice** <br/>
     because of your **judgments**!
 
@@ -835,6 +863,7 @@ that this is **God**, our God forever and ever. <br/>
 He will **guide** us forever.
 
 [Psalm 48:11,13-14 (ESV)](# "ref")
+[Dan Edwards](https://unsplash.com/photos/cgPxN5Y27pA "caption")
 
 >>>
 + Guide: must **yield** to His judgment
@@ -849,6 +878,7 @@ He will **guide** us forever.
 
 ---
 
+<!-- .slide: <%= bg("unsplash-o--lefJNe0w-cross.jpg") %> -->
 <div class="imgbox fulltext fade">
 <div>
 <h4>Purpose</h4>
@@ -897,7 +927,6 @@ For the sake of <br/>
 </div>
 </div>
 
-
 >>>
 + All **bro+sis** in Christ
 + But often bring **dysfunction**
@@ -917,6 +946,7 @@ For the sake of <br/>
 + Seek what is **good**:
 
 ---
+<!-- .slide: <%= bg("unsplash-YK4N8hd4OL8-paper_heart.jpg") %> -->
 He has told you, O man, what is **good**; <br/>
 and what does the Lord **require** of you
 
@@ -924,6 +954,7 @@ but to do **justice**, and to love **kindness**, <br/>
 and to walk **humbly** with your God?
 
 [Micah 6:8 (ESV)](# "ref")
+[Klaus Andersen](https://unsplash.com/photos/YK4N8hd4OL8 "caption")
 
 >>>
 + Strive to act **justly** as God does
@@ -948,6 +979,7 @@ and to walk **humbly** with your God?
   + for all who love to worship God?
 
 ---
+<!-- .slide: <%= bg("unsplash-o--lefJNe0w-cross.jpg") %> -->
 <div class="imgbox fulltext">
 <div>
 <h4>Purpose</h4>
@@ -995,5 +1027,4 @@ For the sake of <br/>
 </div>
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
-
+<!-- .slide: <%= bg("unsplash-o--lefJNe0w-cross.jpg") %> class="empty" -->
