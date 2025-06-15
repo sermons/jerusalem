@@ -17,6 +17,9 @@
 .reveal section .fade .hl {
   color: white;
 }
+.reveal section .hl b {
+  color: yellow;
+}
 
 /* Darken background images */
 .reveal .slide-background-content {

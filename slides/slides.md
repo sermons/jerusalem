@@ -136,8 +136,8 @@ For the sake of <br/>
 <h4>Purpose</h4>
 
 <div class="hl">
-I was **glad** when they said to me,<br>
-    “Let us go to the **house of the Lord**!”
+I was <b>glad</b> when they said to me,<br>
+    “Let us go to the <b>house of the Lord</b>!”
 </div>
 
 Our feet have been standing <br/>
@@ -209,7 +209,53 @@ if you **honor** it, not going your **own ways**, <br/>
   + **Mixed** feelings
 
 ---
-(v2)
+<div class="imgbox fulltext fade">
+<div>
+<h4>Purpose</h4>
+
+I was glad when they said to me,<br>
+    “Let us go to the house of the Lord!”
+
+<div class="hl">
+Our feet have been <b>standing</b> <br/>
+    within your <b>gates</b>, O Jerusalem!
+</div>
+
+Jerusalem — built as a city <br/>
+    that is bound firmly together,
+
+to which the tribes go up, <br/>
+    the tribes of the Lord,
+
+as was decreed for Israel, to give thanks <br/>
+    to the name of the Lord.
+
+There thrones for judgment were set, <br/>
+    the thrones of the house of David.
+
+</div>
+<div>
+<h4>Prayer</h4>
+
+Pray for the peace of Jerusalem! <br/>
+    “May they be secure who love you!
+
+Peace be within your walls <br/>
+    and security within your towers!”
+
+For my brothers and companions' sake <br/>
+    I will say, “Peace be within you!”
+
+For the sake of <br/>
+    the house of the Lord our God, <br/>
+    I will seek your good.
+
+[Psalm 122 (ESV)](# "ref")
+
+<!-- .element: style="text-align: right" -->
+
+</div>
+</div>
 
 >>>
 + Think back to feelings at **home**
@@ -236,7 +282,54 @@ at the entrance of the **city gates** she speaks
   + All here to **worship** God
 
 ---
-(v3-4a)
+<div class="imgbox fulltext fade">
+<div>
+<h4>Purpose</h4>
+
+I was glad when they said to me,<br>
+    “Let us go to the house of the Lord!”
+
+Our feet have been standing <br/>
+    within your gates, O Jerusalem!
+
+<div class="hl">
+Jerusalem — built as a city <br/>
+    that is <b>bound firmly together</b>,
+
+to which the <b>tribes</b> go up, <br/>
+    the tribes of the Lord,
+</div>
+
+as was decreed for Israel, to give thanks <br/>
+    to the name of the Lord.
+
+There thrones for judgment were set, <br/>
+    the thrones of the house of David.
+
+</div>
+<div>
+<h4>Prayer</h4>
+
+Pray for the peace of Jerusalem! <br/>
+    “May they be secure who love you!
+
+Peace be within your walls <br/>
+    and security within your towers!”
+
+For my brothers and companions' sake <br/>
+    I will say, “Peace be within you!”
+
+For the sake of <br/>
+    the house of the Lord our God, <br/>
+    I will seek your good.
+
+[Psalm 122 (ESV)](# "ref")
+
+<!-- .element: style="text-align: right" -->
+
+</div>
+</div>
+
 
 >>>
 + **bound** firmly together: compact
@@ -304,7 +397,54 @@ the more as you see the **Day** drawing near.
 + In practise: hard to **encour** remotely
 
 ---
-(4b)
+<div class="imgbox fulltext fade">
+<div>
+<h4>Purpose</h4>
+
+I was glad when they said to me,<br>
+    “Let us go to the house of the Lord!”
+
+Our feet have been standing <br/>
+    within your gates, O Jerusalem!
+
+Jerusalem — built as a city <br/>
+    that is bound firmly together,
+
+to which the tribes go up, <br/>
+    the tribes of the Lord,
+
+<div class="hl">
+as was <b>decreed</b> for Israel, to give <b>thanks</b> <br/>
+    to the name of the Lord.
+</div>
+
+There thrones for judgment were set, <br/>
+    the thrones of the house of David.
+
+</div>
+<div>
+<h4>Prayer</h4>
+
+Pray for the peace of Jerusalem! <br/>
+    “May they be secure who love you!
+
+Peace be within your walls <br/>
+    and security within your towers!”
+
+For my brothers and companions' sake <br/>
+    I will say, “Peace be within you!”
+
+For the sake of <br/>
+    the house of the Lord our God, <br/>
+    I will seek your good.
+
+[Psalm 122 (ESV)](# "ref")
+
+<!-- .element: style="text-align: right" -->
+
+</div>
+</div>
+
 
 >>>
 + Taking time to meet together is
@@ -357,7 +497,54 @@ the **Jordan** were cut off before the ark.
   + **testify** to God's works
 
 ---
-(5)
+<div class="imgbox fulltext fade">
+<div>
+<h4>Purpose</h4>
+
+I was glad when they said to me,<br>
+    “Let us go to the house of the Lord!”
+
+Our feet have been standing <br/>
+    within your gates, O Jerusalem!
+
+Jerusalem — built as a city <br/>
+    that is bound firmly together,
+
+to which the tribes go up, <br/>
+    the tribes of the Lord,
+
+as was decreed for Israel, to give thanks <br/>
+    to the name of the Lord.
+
+<div class="hl">
+There <b>thrones</b> for <b>judgment</b> were set, <br/>
+    the thrones of the <b>house of David</b>.
+</div>
+
+</div>
+<div>
+<h4>Prayer</h4>
+
+Pray for the peace of Jerusalem! <br/>
+    “May they be secure who love you!
+
+Peace be within your walls <br/>
+    and security within your towers!”
+
+For my brothers and companions' sake <br/>
+    I will say, “Peace be within you!”
+
+For the sake of <br/>
+    the house of the Lord our God, <br/>
+    I will seek your good.
+
+[Psalm 122 (ESV)](# "ref")
+
+<!-- .element: style="text-align: right" -->
+
+</div>
+</div>
+
 
 >>>
 + **Rejoice** invite to Jeru.
@@ -408,7 +595,53 @@ And he cried out, <br/>
   + but for **justice**
 
 ---
-(5)
+<div class="imgbox fulltext fade">
+<div>
+<h4>Purpose</h4>
+
+I was glad when they said to me,<br>
+    “Let us go to the house of the Lord!”
+
+Our feet have been standing <br/>
+    within your gates, O Jerusalem!
+
+Jerusalem — built as a city <br/>
+    that is bound firmly together,
+
+to which the tribes go up, <br/>
+    the tribes of the Lord,
+
+as was decreed for Israel, to give thanks <br/>
+    to the name of the Lord.
+
+<div class="hl">
+There <b>thrones</b> for <b>judgment</b> were set, <br/>
+    the thrones of the <b>house of David</b>.
+</div>
+
+</div>
+<div>
+<h4>Prayer</h4>
+
+Pray for the peace of Jerusalem! <br/>
+    “May they be secure who love you!
+
+Peace be within your walls <br/>
+    and security within your towers!”
+
+For my brothers and companions' sake <br/>
+    I will say, “Peace be within you!”
+
+For the sake of <br/>
+    the house of the Lord our God, <br/>
+    I will seek your good.
+
+[Psalm 122 (ESV)](# "ref")
+
+<!-- .element: style="text-align: right" -->
+
+</div>
+</div>
 
 >>>
 + Amid world of **injustice**
@@ -463,8 +696,57 @@ but who will by **no means** clear the **guilty**
   + **Joy** at invitation
   + Brought **together**, testimony
   + Seek throne of **justice**
+
 ---
-(6)
+
+<div class="imgbox fulltext fade">
+<div>
+<h4>Purpose</h4>
+
+I was glad when they said to me,<br>
+    “Let us go to the house of the Lord!”
+
+Our feet have been standing <br/>
+    within your gates, O Jerusalem!
+
+Jerusalem — built as a city <br/>
+    that is bound firmly together,
+
+to which the tribes go up, <br/>
+    the tribes of the Lord,
+
+as was decreed for Israel, to give thanks <br/>
+    to the name of the Lord.
+
+There thrones for judgment were set, <br/>
+    the thrones of the house of David.
+
+</div>
+<div>
+<h4>Prayer</h4>
+
+<div class="hl">
+Pray for the <b>peace</b> of Jerusalem! <br/>
+    “May they be <b>secure</b> who love you!
+</div>
+
+Peace be within your walls <br/>
+    and security within your towers!”
+
+For my brothers and companions' sake <br/>
+    I will say, “Peace be within you!”
+
+For the sake of <br/>
+    the house of the Lord our God, <br/>
+    I will seek your good.
+
+[Psalm 122 (ESV)](# "ref")
+
+<!-- .element: style="text-align: right" -->
+
+</div>
+</div>
+
 
 >>>
 + 2nd half: **respond** in prayer
@@ -484,7 +766,54 @@ but who will by **no means** clear the **guilty**
   + spreads through daily lives
 
 ---
-(7)
+<div class="imgbox fulltext fade">
+<div>
+<h4>Purpose</h4>
+
+I was glad when they said to me,<br>
+    “Let us go to the house of the Lord!”
+
+Our feet have been standing <br/>
+    within your gates, O Jerusalem!
+
+Jerusalem — built as a city <br/>
+    that is bound firmly together,
+
+to which the tribes go up, <br/>
+    the tribes of the Lord,
+
+as was decreed for Israel, to give thanks <br/>
+    to the name of the Lord.
+
+There thrones for judgment were set, <br/>
+    the thrones of the house of David.
+
+</div>
+<div>
+<h4>Prayer</h4>
+
+Pray for the peace of Jerusalem! <br/>
+    “May they be secure who love you!
+
+<div class="hl">
+Peace be within your <b>walls</b> <br/>
+    and security within your <b>towers</b>!”
+</div>
+
+For my brothers and companions' sake <br/>
+    I will say, “Peace be within you!”
+
+For the sake of <br/>
+    the house of the Lord our God, <br/>
+    I will seek your good.
+
+[Psalm 122 (ESV)](# "ref")
+
+<!-- .element: style="text-align: right" -->
+
+</div>
+</div>
+
 
 >>>
 + 6+7 **couplet**:
@@ -519,7 +848,55 @@ He will **guide** us forever.
   + Covering up is **sharing** in sin
 
 ---
-(8-9)
+
+<div class="imgbox fulltext fade">
+<div>
+<h4>Purpose</h4>
+
+I was glad when they said to me,<br>
+    “Let us go to the house of the Lord!”
+
+Our feet have been standing <br/>
+    within your gates, O Jerusalem!
+
+Jerusalem — built as a city <br/>
+    that is bound firmly together,
+
+to which the tribes go up, <br/>
+    the tribes of the Lord,
+
+as was decreed for Israel, to give thanks <br/>
+    to the name of the Lord.
+
+There thrones for judgment were set, <br/>
+    the thrones of the house of David.
+
+</div>
+<div>
+<h4>Prayer</h4>
+
+Pray for the peace of Jerusalem! <br/>
+    “May they be secure who love you!
+
+Peace be within your walls <br/>
+    and security within your towers!”
+
+<div class="hl">
+For my <b>brothers</b> and companions' sake <br/>
+    I will say, “Peace be within you!”
+
+For the sake of <br/>
+    the <b>house of the Lord</b> our God, <br/>
+    I will seek your <b>good</b>.
+</div>
+
+[Psalm 122 (ESV)](# "ref")
+
+<!-- .element: style="text-align: right" -->
+
+</div>
+</div>
+
 
 >>>
 + All **bro+sis** in Christ
@@ -569,6 +946,53 @@ and to walk **humbly** with your God?
 + What should I be **doing** to bring
   + **peace** + **security**
   + for all who love to worship God?
+
+---
+<div class="imgbox fulltext">
+<div>
+<h4>Purpose</h4>
+
+I was **glad** when they said to me,<br>
+    “Let us go to the **house of the Lord**!”
+
+Our feet have been standing <br/>
+    within your **gates**, O Jerusalem!
+
+Jerusalem — built as a city <br/>
+    that is **bound** firmly together,
+
+to which the **tribes** go up, <br/>
+    the tribes of the Lord,
+
+as was **decreed** for Israel, to give **thanks** <br/>
+    to the name of the Lord.
+
+There **thrones** for **judgment** were set, <br/>
+    the thrones of the **house of David**.
+
+</div>
+<div>
+<h4>Prayer</h4>
+
+Pray for the **peace** of Jerusalem! <br/>
+    “May they be **secure** who love you!
+
+Peace be within your **walls** <br/>
+    and security within your **towers**!”
+
+For my **brothers** and companions' sake <br/>
+    I will **say**, “Peace be within you!”
+
+For the sake of <br/>
+    the **house of the Lord** our God, <br/>
+    I will **seek** your good.
+
+[Psalm 122 (ESV)](# "ref")
+
+<!-- .element: style="text-align: right" -->
+
+</div>
+</div>
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
